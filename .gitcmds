@@ -1,0 +1,4 @@
+# To commit changes to GitHub:
+git add .
+git commit -m "description here"
+git push -u origin master
